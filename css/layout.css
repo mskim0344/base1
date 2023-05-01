@@ -1,0 +1,15 @@
+body{
+    font-family: 'TiquiTaca-Regular','omyu_pretty', sans-serif;
+    color: #222;
+    line-height: 2em;
+    font-size: 1rem;
+}
+a{ color: #222; text-decoration: none;}
+
+*{margin: 0; padding: 0;}
+
+li,dl,dt,dd,ul,ol{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
